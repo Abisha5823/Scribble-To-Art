@@ -1,0 +1,6 @@
+{
+  "name": "Scribble to Art",
+  "description": "A relaxing, creative drawing game where players transform procedural scribbles, curves, and abstract lines into unique artworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
